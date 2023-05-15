@@ -1,0 +1,11 @@
+.header-bar_right{
+    display: flex;
+
+    margin-left: 1400px;
+}
+.carousel-item{
+    height: 800px;
+}
+body{
+    background: #000;
+}
